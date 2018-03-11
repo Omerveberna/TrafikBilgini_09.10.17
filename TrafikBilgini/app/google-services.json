@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "553152137813",
+    "firebase_url": "https://trafikbilgini-542d5.firebaseio.com",
+    "project_id": "trafikbilgini-542d5",
+    "storage_bucket": "trafikbilgini-542d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553152137813:android:bca738659700575c",
+        "android_client_info": {
+          "package_name": "com.example.omerveberna.trafikbilgini"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553152137813-8bj4d5hrl9uol2t9pved6vvfjhm245ku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.omerveberna.trafikbilgini",
+            "certificate_hash": "60bc4fa3db46272b7e43e4f10f8a7b8f6534b282"
+          }
+        },
+        {
+          "client_id": "553152137813-0ksqo7fhgdk3n1g4i1cct5jss41ff56m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkb4QkX_oUZMdZ9IhxwgG9STD-OEYM500"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553152137813-0ksqo7fhgdk3n1g4i1cct5jss41ff56m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

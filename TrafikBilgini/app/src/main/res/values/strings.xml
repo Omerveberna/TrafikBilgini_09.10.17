@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TrafikBilgini</string>
+    <string name="facebook_app_id">110815536279041</string>
+    <string name="next">SONRAKİ</string>
+    <string name="skip">ATLA</string>
+    <string name="start">Şimdi Başla</string>
+    <string name="slide_1_title">Eğlenerek Öğren !</string>
+    <string name="slide_2_title">Yarış, rekabet et !</string>
+    <string name="slide_3_title">Ödüllendiril !</string>
+    <string name="slide_1_desc">\tTrafik Mevzuatına hakim olmak artık çok kolay ve çok eğlenceli.</string>
+    <string name="slide_2_desc">\tMeslektaşların ile mevzuat bilgini yarıştır.</string>
+    <string name="slide_3_desc">\tEn yüksek puanı kazan, ödüllendirilen sen ol.</string>
+</resources>

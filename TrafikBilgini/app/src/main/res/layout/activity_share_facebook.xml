@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/arkaplanresim"
+    tools:context="com.example.omerveberna.trafikbilgini.ShareFacebookActivity">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:text=""
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/share_txt"
+            android:textColor="@color/colorPrimaryDark"
+            android:textStyle="bold"
+            android:layout_marginTop="100dp" />
+
+
+        <Button
+            android:layout_marginTop="20dp"
+            android:id="@+id/btnFacebook"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Puanını Facebookta Paylaş"
+            android:background="@color/colorAccent"/>
+
+        <Button
+            android:layout_marginTop="20dp"
+            android:id="@+id/btnDuzeyAtla"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Yarışmaya Devam Et!"
+            android:background="#99CCCC"/>
+
+
+
+
+    </LinearLayout>
+
+</RelativeLayout>
